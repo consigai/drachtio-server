@@ -3,8 +3,8 @@
 	url = https://github.com/jupp0r/prometheus-cpp.git
 [submodule "deps/sofia-sip"]
 	path = deps/sofia-sip
-	url = https://github.com/davehorton/sofia-sip.git
-	branch = main
+	url = https://github.com/consigai/sofia-sip.git
+	branch = fix/tport-stall-on-crlf-keepalive
 [submodule "deps/cpp-bredis"]
 	path = deps/cpp-bredis
 	url = https://github.com/basiliscos/cpp-bredis.git
