@@ -4,7 +4,7 @@
 [submodule "deps/sofia-sip"]
 	path = deps/sofia-sip
 	url = https://github.com/consigai/sofia-sip.git
-	branch = fix/tport-stall-on-crlf-keepalive
+	branch = fix/tport-stall-on-crlf-keepalive-v2
 [submodule "deps/cpp-bredis"]
 	path = deps/cpp-bredis
 	url = https://github.com/basiliscos/cpp-bredis.git
